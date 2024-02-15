@@ -1,0 +1,9 @@
+# prevent pushing save data :p
+**/CCGameManager*
+**/*.xml
+**/*.plist
+**/*.dat
+backups
+
+# python stuffs
+**/__pycache__
